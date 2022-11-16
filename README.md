@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Jason!
 #### Web Developer
-![Web Developer](https://i.gifer.com/Ggv.gif)
+![Web Developer](Ggv.gif)
 
 I´m currently studying in Universidad de San Carlos de Guatemala. I really like listening to music and discover many artists/bands. I also like to watch movies and series. 
 I want to learn how to play an instrument (like drums, keyboard or bass).
